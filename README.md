@@ -41,7 +41,7 @@ This paper approaches those questions from both a technical and human-centered p
 **Full publication:**  
 [Read the paper on Notion](https://app.notion.com/p/HUMAN-JUDGMENT-IN-THE-AGENTIC-TERMINAL-40edcc21b7c8802da632c148bb402eb4?t=new)
 
-The PDF will also be available directly in this repository.
+The full paper is available in this repository as a downloadable PDF.
 
 ## About the Research
 
